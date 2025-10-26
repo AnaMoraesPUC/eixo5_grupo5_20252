@@ -39,6 +39,6 @@ Outra função foi responsável por:
 <img width="992" height="477" alt="Image" src="https://github.com/user-attachments/assets/c8168ea1-81e8-426e-abc6-083af835c94e" />
 <img width="992" height="266" alt="Image" src="https://github.com/user-attachments/assets/cbd2515d-52bf-4d1c-a396-2cf6181aa344" />
 Os resultados obtidos foram organizados em uma **tabela estruturada com a biblioteca Pandas**, reunindo todas as estatísticas calculadas. Essa tabela representa o conjunto de dados
-“limpos” e prontos para serem utilizados nas próximas etapas de análise e treinamento dos algoritmos de Machine Learning.  
+“tratados/limpos” e prontos para serem utilizados nas próximas etapas de análise e treinamento dos algoritmos de Machine Learning.  
 
 ---
